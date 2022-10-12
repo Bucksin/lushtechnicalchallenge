@@ -1,0 +1,14 @@
+{
+  "name": "lushdeveloperchallenge",
+  "version": "1.0.0",
+  "description": "Lush QA Developer Technical Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Buck Sin",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^18.2.1"
+  }
+}
